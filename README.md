@@ -1,7 +1,7 @@
 # Состав команды и роли
 ## Команда 1
-Сартов Эржан - простая программа - @Erjan495 (https://github.com/Erjan495)
+Сартов Эржан - программа простой сложности - @Erjan495 (https://github.com/Erjan495)
 
-Пыжов Дмитрий - средняя программа - @halisu77 (https://github.com/halisu77)
+Пыжов Дмитрий - программа средней сложности - @halisu77 (https://github.com/halisu77)
 
-Смирнов Леонид - сложная программа - @Markovka121 (https://github.com/Markovka121)
+Смирнов Леонид - программа сложной сложности - @Markovka121 (https://github.com/Markovka121)
